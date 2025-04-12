@@ -13,4 +13,4 @@ CADA FUNCIONALIDAD POSEE UNA CORRECTA VERIFICACIÓN DE DATOS Y TIMESTAMPS
 
 Estudiantes que trabajaron el laboratorio:
 -> Gabriel Cuba
--> Piero Huayta
+-> Piero Huayta   
